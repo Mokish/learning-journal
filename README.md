@@ -4,6 +4,6 @@
 # mindset in my own word.
 - you should have an exact schedule to stading and doing your homework,
 - you should go trough your licture every day after the class,
-you should talk to your classments and ask them questions and ask your TA or teachers.
+- you should talk to your classments and ask them questions and ask your TA or teachers.
 
 
