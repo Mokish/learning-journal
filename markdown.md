@@ -4,7 +4,8 @@
 - i would love dive more in to it and undrustand how hard it gets.
 * was trying to undrustand the journal more*
 
-![my first github project](/images/logo.png)
+![GitHub Logo](/images/logo.png)
 Format: ![Alt text](url)
 
 
+ 
