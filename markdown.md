@@ -5,5 +5,6 @@
 * _was trying to undrustand the journal more_*
 
 ![my first github project](/images/logo.png)
+Format: ![Alt text](url)
 
 
