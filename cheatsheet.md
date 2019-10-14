@@ -10,5 +10,6 @@
  ### *camparing of text editors*
  
  1 in the notepad editor you dont you the indintataitions vr in vidual studio code it just fixes it while you are coding .
+ 
  2 i thik IDE is used for python mostly but i might be wrong ,
  
