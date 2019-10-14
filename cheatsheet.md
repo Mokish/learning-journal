@@ -1,5 +1,5 @@
 # my cheastsheet assihnment.
-**here is the link for the my github**(https://github.com/Mokish/learning-journal.git)
+[**here is the link for the my github**](https://github.com/Mokish/learning-journal.git)
 
 - text editor is a sftwere that you use to write your code ,
 - it makes it easy to writh the code and desplay it at the same time ,
