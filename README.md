@@ -10,7 +10,7 @@
 
 - table f contents 
  - [markdown](maarkdown.md)
- - [Growth Mindset](Growth minset.md)
+ - [Growth Mindset](growth-mindset.md)
 
  - [Cheat Sheet](cheat)
 
