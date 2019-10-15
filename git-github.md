@@ -11,7 +11,7 @@
 
 ## merging 
 
-~~- fast merging Fast 
+- fast merging Fast 
 - No Fast Forward
 - Three-way Merge
 - Fetch and Merge
@@ -19,7 +19,7 @@
 - Merge Conflicts
 - Preview Changes
 - Listing Branches
-~~- See Latest Commits
+~~See Latest Commits~~
 
 
 **#git** 
