@@ -8,4 +8,6 @@
 Format: ![Alt text](url)
 
 
- 
+ - [markdown] (maarkdown.md)
+ - [Growth Mindset] (growth minset.md)
+ - [Cheat Sheet](cheact)

@@ -8,4 +8,9 @@
 
 *growth mindset is the role that you make to have a better way of learning. as i believe i had a good growth mindset that i have learned a lot of things by myself. that is growth mindset*
 
+- table f contents 
+ - [markdown] (maarkdown.md)
+ - [Growth Mindset](growth minset.md)
+
+ - [Cheat Sheet](cheact)
 
