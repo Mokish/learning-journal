@@ -22,6 +22,6 @@
 ~~See Latest Commits~~
 
 
-**#git** 
+# git
 _git is a DVCS that stores data in the files system , every time you commet something it stores the new verson of that date in the system_
 -every single changes is applied by a files or dictionay is trached by git . what ever you do git is looking at you and tracking you 
