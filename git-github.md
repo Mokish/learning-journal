@@ -10,17 +10,17 @@
 * local resposetory stracture . if you change anything you can sav it back ,keeping your fils in the safe area.you can cheak your files stutus when ever you want . if you fineshed your code and see it is working you can cammet your files and then pushing it ,
 
 ## merging 
-~~
-- fast merging Fast 
-- No Fast Forward
-- Three-way Merge
-- Fetch and Merge
-- Deleting Branches
-- Merge Conflicts
-- Preview Changes
-- Listing Branches
+
+~~fast merging Fast~~ 
+~~No Fast Forward~~
+~~Three-way Merge~~
+~~Fetch and Merge~~
+~~Deleting Branches~~
+~~Merge Conflicts~~
+~~Preview Changes~~
+~~Listing Branches~~
 ~~See Latest Commits~~
-~~
+
 
 **#git** 
 _git is a DVCS that stores data in the files system , every time you commet something it stores the new verson of that date in the system_
